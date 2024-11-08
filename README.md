@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]
+> Moved repository to [AxOS-project/Calla](https://github.com/axos-project/Calla)
+
 <h1 align=center>Calla</h1>
 <h3 align=center>By <a href="https://github.com/Stardust-kyun">Stardust-kyun</a></h3>
 
